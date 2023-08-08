@@ -6,8 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/itzssagar" target="blank"><img src="https://img.shields.io/twitter/follow/itzssagar?logo=twitter&style=for-the-badge" alt="itzssagar" /></a> </p>
 <a href="https://www.instagram.com/defaulter_being/" target = "_main">
-    <img src = "https://cdn-icons-png.flaticon.com/512/87/87390.png" alt = "Instagram"
+    <img src = "https://cdn-icons-png.flaticon.com/512/87/87390.png" alt = "google"
     height="25"/></a>
+    <a href="https://www.instagram.com/defaulter_being/" target = "_main">
+        <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1280px-Instagram_logo.svg.png" alt = "Instagram"
+        height="20"/></a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ItzsSagar](https://github.com/ItzsSagar)
 
